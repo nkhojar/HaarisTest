@@ -1,0 +1,9 @@
+{
+	"name": "nikhiltestingADF",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "993f7b1e-c3a5-4874-a47b-37f50531077f",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
