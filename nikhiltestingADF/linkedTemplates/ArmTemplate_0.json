@@ -24,7 +24,7 @@
 						"dependsOn": [],
 						"userProperties": [],
 						"typeProperties": {
-							"waitTimeInSeconds": 660
+							"waitTimeInSeconds": 99999999
 						}
 					}
 				],
