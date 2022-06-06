@@ -14,7 +14,7 @@
 		],
 		"policy": {
 			"elapsedTimeMetric": {
-				"duration": "0.00:10:00"
+				"duration": "0.00:50:00"
 			}
 		},
 		"annotations": []
